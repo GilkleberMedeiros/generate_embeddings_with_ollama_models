@@ -4,7 +4,7 @@ main.py cria e mostra o embedding de um texto passado.
 
 # Instruções
 ## Configuração do ambiente necessário para rodar o script
-Baixe o ollama em sua máquina, seguindo o tutorial (tutorial)[https://www.youtube.com/watch?v=8KFE_4fvXG4] se desejar.
+Baixe o ollama em sua máquina, seguindo o tutorial [tutorial](https://www.youtube.com/watch?v=8KFE_4fvXG4) se desejar.
 
 Inicie o serviço do ollama na sua máquina com `ollama serve` e baixe o modelo usado no script com `ollama pull snowflake-arctic-embed2:568m` ou use outro modelo de sua preferência, mas saiba que terá que mudar a variável `ollama_model` em main.py
 
